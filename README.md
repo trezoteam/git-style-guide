@@ -37,10 +37,10 @@ Na hora de mergear na develop e master deve ser requisitado o pull request (feit
   - [1.0](#) Escolha nomes curtos e explicativos.
   > Utilize sempre o identificador correspondente (feature para novas implementações ou hotfix para correção de erros) seguido de uma barra (/) contendo o número da tarefa no nosso sistema interno e um traço com um texto que identifique o que será feito (livre).
 
-    ```
-    # bom: usando identificadores
-    $ git checkout -b hotfix/123-erro-login
+```
+# bom: usando identificadores
+$ git checkout -b hotfix/123-erro-login
 
-    # ruim: muito vago
-    $ git checkout -b erro
-    ```
+# ruim: muito vago
+$ git checkout -b erro
+```
