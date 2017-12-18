@@ -12,8 +12,8 @@ Todo projeto deve ter no mínimo 2 branches, uma chamada develop e master.
 Para desenvolver, sempre deve ser criada uma brach a partir da MASTER e sempre deve levar o nome hotfix/nºtarefa-descricao ou feature/nºtarefa-descricao 
 
 ```
-  **hotfix** para correções rápidas
-  **feature** para novas funcionalidades
+  hotfix para correções rápidas
+  feature para novas funcionalidades
 ```
 
 Para criar uma branch sempre ir antes na master (git checkout master) e fazer pull (git pull origin master) para receber os códigos atualizados, então criar a branch (git checkout -b hotfix/123-correios) Então os passos a seguir são: 
