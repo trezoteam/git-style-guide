@@ -4,7 +4,7 @@
 
 ## Flow
 
-Todo projeto deve ter no mínimo 2 branches, uma chamada develop e master. 
+Todo projeto deve ter no mínimo 2 branches, uma chamada **develop** e outra **master**. 
 
 * A branch **MASTER** é que está publicada em produção, todo código já está aprovado pelo cliente 
 * A branch **DEVELOP** é a publicada em homologação e a que usamos para códigos ainda em desenvolvimento 
