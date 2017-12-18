@@ -65,3 +65,18 @@ $ git checkout -b feature/321-checkout_transparente
   - [2.1](#) Comite sempre e várias vezes.
   
     > Pequenos, autônomos e explicativos são commits fáceis de se entender e reverter quando algo não dá muito certo.
+    
+  - [2.2](#) Use mensagens.
+  
+    > Sempre descreva de forma explicativa a mensagem do seu commit para auxiliar encontrar no futuro.
+        
+```
+# bom: explicativo
+$ git commit -m "corrigido erro que impedia login devido a falta de um ponto e virgula" arquivo.php 
+
+# ruim: muito vago
+$ git commit -m "corrigido erro" arquivo.php 
+```
+    
+    
+    
