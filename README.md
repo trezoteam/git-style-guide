@@ -44,3 +44,13 @@ $ git checkout -b hotfix/123-erro-login
 # ruim: muito vago
 $ git checkout -b erro
 ```
+
+  - [1.1](#) Use traços para seprar palavras.
+
+```
+# bom: usando traços
+$ git checkout -b feature/321-checkout-transparente
+
+# ruim: muito vago
+$ git checkout -b feature/321-checkout_transparente
+```
