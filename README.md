@@ -35,6 +35,7 @@ Na hora de mergear na develop e master deve ser requisitado o pull request (feit
 ## Branches
 
   - [1.0](#) Escolha nomes curtos e explicativos.
+  
   > Utilize sempre o identificador correspondente (feature para novas implementações ou hotfix para correção de erros) seguido de uma barra (/) contendo o número da tarefa no nosso sistema interno e um traço com um texto que identifique o que será feito (livre).
 
 ```
@@ -58,4 +59,9 @@ $ git checkout -b feature/321-checkout_transparente
 ## Commits
 
   - [2.0](#) Cada commit deve representar uma mudança lógica apenas.
+  
     > Não faça um único commit contendo várias lógicas ou implementaçoes. Por exemplo: corrigiu um bug e otimizou a performance de um código, faça dois commits separados identificando cada coisa.
+    
+  - [2.1](#) Comite sempre e várias vezes.
+  
+    > Pequenos, autônomos e explicativos são commits fáceis de se entender e reverter quando algo não dá muito certo.
