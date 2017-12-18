@@ -70,13 +70,13 @@ $ git checkout -b feature/321-checkout_transparente
   
     > Sempre descreva de forma explicativa a mensagem do seu commit para auxiliar encontrar no futuro.
         
-```
-# bom: explicativo
-$ git commit -m "corrigido erro que impedia login devido a falta de um ponto e virgula" arquivo.php 
+  ```
+  # bom: explicativo
+  $ git commit -m "corrigido erro que impedia login devido a falta de um ponto e virgula" arquivo.php 
 
-# ruim: muito vago
-$ git commit -m "corrigido erro" arquivo.php 
-```
+  # ruim: muito vago
+  $ git commit -m "corrigido erro" arquivo.php 
+  ```
     
     
     
