@@ -60,15 +60,15 @@ $ git checkout -b feature/321-checkout_transparente
 
   - [2.0](#) Cada commit deve representar uma mudança lógica apenas.
   
-    > Não faça um único commit contendo várias lógicas ou implementaçoes. Por exemplo: corrigiu um bug e otimizou a performance de um código, faça dois commits separados identificando cada coisa.
+  > Não faça um único commit contendo várias lógicas ou implementaçoes. Por exemplo: corrigiu um bug e otimizou a performance de um código, faça dois commits separados identificando cada coisa.
     
   - [2.1](#) Comite sempre e várias vezes.
   
-    > Pequenos, autônomos e explicativos são commits fáceis de se entender e reverter quando algo não dá muito certo.
+  > Pequenos, autônomos e explicativos são commits fáceis de se entender e reverter quando algo não dá muito certo.
     
   - [2.2](#) Use mensagens.
   
-    > Sempre descreva de forma explicativa a mensagem do seu commit para auxiliar encontrar no futuro.
+  > Sempre descreva de forma explicativa a mensagem do seu commit para auxiliar encontrar no futuro.
         
   ```
   # bom: explicativo
