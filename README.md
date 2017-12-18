@@ -54,3 +54,8 @@ $ git checkout -b feature/321-checkout-transparente
 # ruim: muito vago
 $ git checkout -b feature/321-checkout_transparente
 ```
+
+## Commits
+
+  - [2.0](#) Cada commit deve representar uma mudança lógica apenas.
+    > Não faça um único commit contendo várias lógicas ou implementaçoes. Por exemplo: corrigiu um bug e otimizou a performance de um código, faça dois commits separados identificando cada coisa.
